@@ -10,7 +10,7 @@
 
 <div align="center">
   <p align="center">
-<img src=https://i.imgur.com/CtaexU3.jpeg>
+<img src=https://i.imgur.com/yHFwHKL.jpeg>
 </p>
 
 <img src=https://i.ibb.co/s1CSFK7/ae6572d653ee04f78fc986bddd89d5b3.png>
@@ -18,11 +18,11 @@
 
 
   <p align="center">
-<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--Amruthesh/AMRU-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https:"><img title="Author" src="https://img.shields.io/badge/Author--blesson/BLESSU-SER?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/AMRUSIR-AMRUSER">AMRU-SER</a> to make it public
+Project created by <a href="https://github.com/BLESSU-BLESSU">BLESSU-SER</a> to make it public
     <br>
        | © |
         Reserved |
@@ -61,9 +61,9 @@ $ node julie.js
 ```js
 SETUP
 $ git clone https://github.com/AMRUSIR/AMRU-SER
-$ cd AMRU-SER
+$ cd BLESSU-SER
 $ npm i
-$ node julie.js
+$ node Blessu.js
 ```
 
 ----
